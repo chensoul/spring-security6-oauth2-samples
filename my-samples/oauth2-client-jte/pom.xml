@@ -84,7 +84,7 @@
             <plugin>
                 <groupId>gg.jte</groupId>
                 <artifactId>jte-maven-plugin</artifactId>
-                <version>3.1.16</version>
+                <version>3.2.2</version>
                 <executions>
                     <execution>
                         <id>jte-generate</id>
